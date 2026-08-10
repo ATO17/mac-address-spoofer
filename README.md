@@ -1,6 +1,6 @@
 # MAC Address Spoofer
 
-This is one of my first hands-on projects. It’s a Python 3 script that temporarily changes (spoofs) the MAC address of a Linux network interface. 
+This is my first ever project. It’s a Python 3 script that temporarily changes (spoofs) the MAC address of a Linux network interface. 
 
 Instead of just running a working tool, I took an older, broken script and forced myself to debug it so I could actually understand how Python interacts with the Linux operating system.
 
